@@ -27,6 +27,13 @@
         "messageEn": "Please check if the details are correct or try again.",
         "messageTh": "กรุณาตรวจสอบข้อมูลให้ถูกต้อง หรือลองใหม่อีกครั้ง"
     },
+    "26003": {
+        "description": "Used for format validation errors such as incorrect data type, invalid, malformed request,",
+        "titleEn": "Unable to proceed",
+        "titleTh": "ไม่สามารถดำเนินการได้",
+        "messageEn": "Please check if the details are correct or try again.",
+        "messageTh": "กรุณาตรวจสอบข้อมูลให้ถูกต้อง หรือลองใหม่อีกครั้ง"
+    },
     "30001": {
         "description": "Transaction amount limit exceeded.",
         "titleEn": "The amount exceeds your transaction limit",
